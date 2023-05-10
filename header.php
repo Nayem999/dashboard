@@ -834,7 +834,7 @@ $url=basename(__DIR__) ;
             </div>
             <div class="accordion-item">
                 <h2>
-                    <a href="<?=$url.'/../panding-list.php'?>">
+                    <a href="<?=$url.'/../pending-list.php'?>">
                         <div class="dashboard_icon">
                             <svg width="24" height="24" viewBox="0 0 29 29" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
