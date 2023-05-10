@@ -1,0 +1,4 @@
+01.add testimonial link and ratting -done
+02.delect functionlity -done
+03.bangking page add range slider -done
+04.project overview add modal and overflow auto add -done
