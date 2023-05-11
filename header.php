@@ -413,11 +413,11 @@ $url=basename(__DIR__) ;
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?=$url.('/../user-transaction.php')?>">
+                                    <a href="<?=$url.('/../account-setting.php')?>">
                                         <div class="profile_icon">
                                             <i class="fa-solid fa-gear"></i>
                                         </div>
-                                        <span>Acount</span>
+                                        <span>Account</span>
                                     </a>
                                 </li>
                                 <li>
@@ -482,7 +482,10 @@ $url=basename(__DIR__) ;
                                 <a href="<?=$url.'/../product-overview.php'?>">Overview</a>
                             </li>
                             <li>
-                                <a href="<?=$url.'/../add-product.php'?>">All Products</a>
+                                <a href="<?=$url.'/../product-overview.php'?>">All Products</a>
+                            </li>
+                            <li>
+                                <a href="<?=$url.'/../add-product.php'?>">Add Products</a>
                             </li>
                             <li>
                                 <a href="<?=$url.'/../product-overview.php'?>">Inventory</a>
